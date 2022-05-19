@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-19T17:49:44" hostname="SHAMARDN" time="0.075">
+  <properties/>
+  <testcase name="should_Return_Minus1_When_TheListIsOf_Contains_Other_Char()" classname="MainKtTest" time="0.066"/>
+  <testcase name="should_Return_a_Repetition_When_TheListIsOf_a_And_b()" classname="MainKtTest" time="0.002"/>
+  <testcase name="should_Return_0_Repetition_When_TheListIsOf_b_Only()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_Return_a_Repetition_When_TheListIsOf_a_Only()" classname="MainKtTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
